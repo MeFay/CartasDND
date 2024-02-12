@@ -1,0 +1,77 @@
+{
+  "races": [
+    {
+      "name": "Human",
+      "description": "Versatile and adaptable, humans are the most common race in many D&D worlds.",
+      "image": "https://www.dndbeyond.com/avatars/thumbnails/6/258/420/618/636271801914013762.png",
+      "attributes": {
+        "ability_scores": {
+          "strength": "+1",
+          "dexterity": "+1",
+          "constitution": "+1",
+          "intelligence": "+1",
+          "wisdom": "+1",
+          "charisma": "+1"
+        },
+        "speed": "30 feet",
+        "size": "Medium",
+        "languages": ["Common", "One additional language of your choice"]
+      }
+    },
+    {
+      "name": "Elf",
+      "description": "Graceful and magical, elves have a deep connection to the natural world.",
+      "image": "https://www.dndbeyond.com/avatars/thumbnails/7/639/420/618/636287075350739045.png",
+      "attributes": {
+        "ability_scores": {
+          "dexterity": "+2"
+        },
+        "speed": "30 feet",
+        "size": "Medium",
+        "darkvision": "60 feet",
+        "languages": ["Common", "Elvish"]
+      }
+    },
+    {
+      "name": "Dwarf",
+      "description": "Hardy and industrious, dwarves are renowned for their craftsmanship and resilience.",
+      "image": "https://www.dndbeyond.com/avatars/thumbnails/6/254/420/618/636271781394265550.png",
+      "attributes": {
+        "ability_scores": {
+          "constitution": "+2"
+        },
+        "speed": "25 feet",
+        "size": "Medium",
+        "darkvision": "60 feet",
+        "languages": ["Common", "Dwarvish"]
+      }
+    },
+    {
+      "name": "Halfling",
+      "description": "Small and nimble, halflings are known for their luck and resourcefulness.",
+      "image": "https://www.dndbeyond.com/avatars/thumbnails/6/256/420/618/636271789409776659.png",
+      "attributes": {
+        "ability_scores": {
+          "dexterity": "+2"
+        },
+        "speed": "25 feet",
+        "size": "Small",
+        "languages": ["Common", "Halfling"]
+      }
+    },
+    {
+      "name": "Dragonborn",
+      "description": "Proud and noble, dragonborn are descended from dragons and wield draconic power.",
+      "image": "https://www.dndbeyond.com/avatars/thumbnails/6/340/420/618/636272677995471928.png",
+      "attributes": {
+        "ability_scores": {
+          "strength": "+2",
+          "charisma": "+1"
+        },
+        "speed": "30 feet",
+        "size": "Medium",
+        "languages": ["Common", "Draconic"]
+      }
+    }
+  ]
+}

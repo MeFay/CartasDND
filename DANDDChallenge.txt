@@ -1,0 +1,7 @@
+Projeto: Criação de Cartões das Raças de D&D
+
+Descrição:
+Desenvolve uma página web utilizando HTML, CSS e JavaScript para apresentar cartões das raças do jogo Dungeons & Dragons (D&D).
+Utiliza um objeto JSON como fonte de dados para as características das raças e as suas imagens correspondentes.
+O design dos cartões fica ao teu critério. Lembra-te que vais precisar de pesquisar como ler e utilizar um objeto JSON em JavaScript para
+renderizar dinamicamente os cartões, sem a necessidade de os criar manualmente no HTML.
