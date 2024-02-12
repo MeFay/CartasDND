@@ -1,3 +1,4 @@
+import Card from "./CardContainer.js"
 document.addEventListener("DOMContentLoaded", function () {
   fetch("races.json")
     .then((response) => response.json())
